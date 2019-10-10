@@ -1,0 +1,17 @@
+{
+    "name": "doghead/simple_game",
+    "description": "swoole4.x simple game",
+    "type": "rary",
+    "authors": [
+        {
+            "name": "doghead",
+            "email": "861167322@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "require": {}
+}

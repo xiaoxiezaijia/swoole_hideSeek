@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c625795f-ca94-4dea-a76e-89f112eaf626" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpjBack" beforeDir="false" afterPath="$PROJECT_DIR$/../cpjBack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpjwx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-shop/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-shop/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-shop/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-shop/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-shop/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/public/error/400.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/public/error/403.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/public/error/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/public/error/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/public/error/501.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/public/error/502.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/public/error/503.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/public/error/504.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/public/error/505.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/public/error/506.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/public/error/507.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/public/error/509.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/public/error/510.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-shop/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.php" beforeDir="false" afterPath="$PROJECT_DIR$/../test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_serv/2018-10-20.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_serv/cpjWx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yag" beforeDir="false" afterPath="$PROJECT_DIR$/../yag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yagWx" beforeDir="false" afterPath="$PROJECT_DIR$/../yagWx" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1S062caSeKLhucw38WTWTzzuSQF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c625795f-ca94-4dea-a76e-89f112eaf626" name="Default Changelist" comment="" />
+      <created>1570687959518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570687959518</updated>
+      <workItem from="1570687963348" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
