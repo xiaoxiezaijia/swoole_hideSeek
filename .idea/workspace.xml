@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c625795f-ca94-4dea-a76e-89f112eaf626" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Lib/Redis.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Manager/DataCenter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Manager/Game.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Manager/Logic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Manager/Sender.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Manager/TaskManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Model/Map.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Model/Player.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cpjBack" beforeDir="false" afterPath="$PROJECT_DIR$/../cpjBack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cpjwx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../laravel-shop/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-shop/.idea/php.xml" afterDir="false" />
@@ -25,6 +34,13 @@
       <change beforePath="$PROJECT_DIR$/../laravel-shop/public/error/510.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../laravel-shop/public/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../laravel-shop/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-shop/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/simple_game.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/simple_game.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test.php" beforeDir="false" afterPath="$PROJECT_DIR$/../test.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test_serv/2018-10-20.tar.gz" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../test_serv/cpjWx" beforeDir="false" />
@@ -37,23 +53,32 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/eaglewu/swoole-ide-helper" />
     </include_path>
   </component>
   <component name="ProjectId" id="1S062caSeKLhucw38WTWTzzuSQF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -79,7 +104,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570687959518</updated>
-      <workItem from="1570687963348" duration="98000" />
+      <workItem from="1570687963348" duration="4928000" />
+      <workItem from="1570776772384" duration="4984000" />
     </task>
     <servers />
   </component>
@@ -91,7 +117,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
